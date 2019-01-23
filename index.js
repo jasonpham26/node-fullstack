@@ -1,7 +1,7 @@
 const express = require('express');
 
 app.get('/', (req, res) => {
-  res.send({ bye: 'there' });
+  res.send({ bye: 'buddy' });
 });
 const app = express();
 
